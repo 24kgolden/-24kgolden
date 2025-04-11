@@ -1,27 +1,78 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Edwar Ramírez<br><br>🎓 Estudiante de Ingeniería de Software en la Universidad Tecnológica Empresarial de Guayaquil (5to semestre).<br>💻 Apasionado por la tecnología, la programación y el desarrollo de soluciones innovadoras.<br>⚙️ Me gusta trabajar en proyectos de microservicios, desarrollo web, gestión de bases de datos y aplicaciones Java.<br>📈 Siempre busco mejorar mis habilidades y compartir proyectos que aporten valor.<br>🏆 He participado en eventos, concursos y retos tecnológicos dentro y fuera de la universidad, obteniendo reconocimientos y certificaciones.<br>🔎 Actualmente me encuentro explorando más sobre Spring Boot, Docker y buenas prácticas de desarrollo.<br><br>👉 Si te gustaría colaborar o conectar, ¡no dudes en escribirme!<br>📫 Correo: edwarddelcastillo4@gmail.com
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/serpico666) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edwar-ram%C3%ADrez-11b995270/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Serpico666/upvoted/) [![Stack Overflow](https://stackoverflow.com/users/28830301/edwar-del-castillo?tab=profile)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/447500/mc-lovin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/666_serpico/likes) 
+<div align="center">
+  <a href="https://www.linkedin.com/in/edwar-ram%C3%ADrez-11b995270/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://stackoverflow.com/users/28830301/edwar-del-castillo?tab=profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=24kgolden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=24kgolden&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=24kgolden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=24kgolden&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=24kgolden.24kgolden&"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=24kgolden&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">hey there 👋</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=24kgolden&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h6 align="left">👋 Hi! I'm Edwar Ramírez<br><br>🎓 Software Engineering student at Universidad Tecnológica Empresarial de Guayaquil (5th semester).<br>💻 Passionate about technology, programming, and developing innovative solutions.<br>⚙️ I enjoy working on microservices projects, web development, database management, and Java applications.<br>📈 I'm always looking to improve my skills and share projects that add value.<br>🏆 I've participated in events, competitions, and tech challenges inside and outside the university, earning recognitions and certifications.<br>🔎 Currently exploring more about Spring Boot, Docker, and best development practices.<br><br>👉 If you'd like to collaborate or connect, feel free to reach out!<br>📫 Email: edwarddelcastillo4@gmail.com</h6>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=24kgolden&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24kgolden&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/24kgolden/24kgolden/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.redd.it/yy49p6gm8wb71.gif"  />
+</div>
+
+###
