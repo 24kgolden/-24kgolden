@@ -70,7 +70,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/24kgolden/24kgolden/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/24kgolden/24kgolden/output/snake.svg" alt="Snake animation" />-->
+<!-- <img src="https://raw.githubusercontent.com/24kgolden/24kgolden/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
